@@ -1,0 +1,21 @@
+1.1 Description 
+Design and implement a Personal Website (Online CV/Portfolio). This is not just a design file; it must be a 
+working static website. This website will serve as your digital identity for future job applications. 
+1.2 Requirements 
+• Structure: Must contain at least 4 pages (e.g., Home, About Me, Projects/Gallery, Contact). 
+• Tech Stack: 
+o Pure HTML (Semantic tags required). 
+o Pure CSS (Flexbox/Grid layout required). 
+o Constraint: No JavaScript frameworks (like React/Vue) and no CSS frameworks (like 
+Bootstrap) allowed at this stage. You must write your own CSS. 
+• Design: Must be aesthetically pleasing and Responsive (mobile-friendly). 
+• Link: Please upload the completed website to GitHub. Recommend using GitHub or Google's personal 
+homepage feature. 
+1.3. Grading Criteria (5 pts) 
+• [2.0] Code Quality: Valid HTML structure, clean CSS, no inline styles. 
+• [2.0] Visual Design: Layout, color harmony, responsiveness.
+
+网页干净整洁，符合年轻人审美。
+
+我是Zou Haoming qq 1046201574 微信zhm1046201574
+我是一个游戏玩家，比较喜欢独立游戏和逻辑解谜游戏。对游戏行业有一定的了解。
